@@ -3,7 +3,7 @@
         <div class="container flex flex-col items-center justify-between h-full max-w-6xl mx-auto">
             <h2 class="my-5 text-base font-medium tracking-tight text-indigo-500 uppercase">Why InsiderInsights&quest;</h2>
             <h3
-                class="max-w-2xl px-5 mt-2 text-3xl font-black leading-tight text-center text-gray-900 sm:mt-0 sm:px-0 sm:text-6xl">
+                class="max-w-2xl px-5 mt-2 text-3xl font-black leading-tight text-center sm:mt-0 sm:px-0 sm:text-6xl">
                 Built and Designed with you in Mind</h3>
             <div class="flex flex-col w-full mt-0 lg:flex-row sm:mt-10 lg:mt-20">
 
