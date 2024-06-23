@@ -1,10 +1,9 @@
 <template>
     <div id="features" class="relative w-full px-8 py-10 border-t border-gray-200 md:py-16 lg:py-24 xl:py-40 xl:px-0">
         <div class="container flex flex-col items-center justify-between h-full max-w-6xl mx-auto">
-            <h2 class="my-5 text-base font-medium tracking-tight text-indigo-500 uppercase">Why InsiderInsights&quest;</h2>
             <h3
                 class="max-w-2xl px-5 mt-2 text-3xl font-black leading-tight text-center sm:mt-0 sm:px-0 sm:text-6xl">
-                Built and Designed with you in Mind</h3>
+                Help Provide Insider Information for Job Seekers</h3>
             <div class="flex flex-col w-full mt-0 lg:flex-row sm:mt-10 lg:mt-20">
 
                 <div class="w-full max-w-md p-4 mx-auto mb-0 sm:mb-16 lg:mb-0 lg:w-1/3">
@@ -22,11 +21,8 @@
                         <!-- FEATURE Icon 1 -->
                         <h4 class="relative mt-6 text-lg font-bold">Business Info</h4>
                         <p class="relative mt-2 text-base text-center text-gray-600">
-                            Know what is going on in the Lagos corporate world. 
-                            Keep track of companies and businesses.
+                           Keep track of companies and businesses.
                         </p>
-                        <a href="#_" class="relative flex mt-2 text-sm font-medium text-indigo-500 underline">Learn
-                            More</a>
                     </div>
                 </div>
 
@@ -47,8 +43,6 @@
                             Write and share your reviews on companies
                             or businesses anonymously.
                         </p>
-                        <a href="#_" class="relative flex mt-2 text-sm font-medium text-indigo-500 underline">Learn
-                            More</a>
                     </div>
                 </div>
 
@@ -67,12 +61,9 @@
                         <!-- FEATURE Icon 3 -->
                         <h4 class="relative mt-6 text-lg font-bold">Insider Tips</h4>
                         <p class="relative mt-2 text-base text-center text-gray-600">
-                            Are you looking to work for a company or trade
-                            with them? Get insider information from people
+                            Get insider information from people
                             who have worked there.
                         </p>
-                        <a href="" class="relative flex mt-2 text-sm font-medium text-indigo-500 underline">Learn
-                            More</a>
                     </div>
                 </div>
 

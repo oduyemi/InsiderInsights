@@ -1,26 +1,13 @@
-<template>
-  <HomeBanner msg="Welcome to Your Vue.js App"/>
-  <WhyApp />
-  <UserTestimonial />
+<script setup>
+  import NavBar from "./components/NavBar.vue";
+</script>
 
+<template>
+  <NavBar />
+  <RouterView />
 </template>
 
-<script>
-import HomeBanner from "./components/HomeBanner.vue";
-import WhyApp from "./components/WhyApp.vue";
-import UserTestimonial from "./components/UserTestimonial"
 
-
-
-export default {
-  name: "App",
-  components: {
-    HomeBanner,
-    WhyApp,
-    UserTestimonial
-  }
-}
-</script>
 
 <style>
 #app {
