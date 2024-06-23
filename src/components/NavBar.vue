@@ -18,7 +18,7 @@
         <a href="/testimonials" class="font-bold duration-100 transition-color hover:text-indigo-600">Testimonials</a>
         <div class="flex flex-col block w-full font-medium border-t border-gray-200 md:hidden">
           <a href="/login" class="w-full py-2 font-bold text-center text-pink-500">Login</a>
-          <a href="/register" class="relative inline-block w-full px-5 py-3 text-sm leading-none text-center text-white bg-indigo-700 fold-bold">Get Started</a>
+          <a href="/register" class="relative inline-block w-full px-5 py-3 text-sm leading-none text-center text-deepblue bg-deepblue fold-bold">Get Started</a>
         </div>
       </nav>
 

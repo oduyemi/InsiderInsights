@@ -32,4 +32,5 @@
           </div>
       </div>
   </div>
+  <div class="mb-24"></div>
 </template>
